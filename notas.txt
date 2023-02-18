@@ -1,0 +1,2 @@
+Aqui seran expuestas herramientas en react, Tener en cuenta que en caso de que el proyecto sea fullstack debera 
+estas en un repositorio aparte en el repositorio apps
